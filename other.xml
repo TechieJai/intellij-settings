@@ -1,0 +1,9 @@
+<application>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
+  <component name="SyncEdit.Settings">
+    <option name="PLUGIN_ENABLED" value="true" />
+    <option name="WHOLEWORDSELECTION_ENABLED" value="true" />
+  </component>
+</application>
