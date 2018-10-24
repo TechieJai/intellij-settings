@@ -13,30 +13,6 @@
     <option name="slicingExpressionsCollapse" value="false" />
     <option name="varExpressionsCollapse" value="false" />
   </component>
-  <component name="CodeInsightSettings">
-    <option name="SHOW_INFERRED_ANNOTATIONS_INLINE" value="true" />
-    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
-    <option name="PARAMETER_INFO_DELAY" value="300" />
-    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
-    <option name="JAVADOC_INFO_DELAY" value="300" />
-    <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
-    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-    <EXCLUDED_PACKAGE NAME="com.sun.tools.javac.util.List" />
-    <EXCLUDED_PACKAGE NAME="com.sun.xml.internal.xsom.impl" />
-    <EXCLUDED_PACKAGE NAME="com.vyom.fe" />
-    <EXCLUDED_PACKAGE NAME="com.vyom.fuel.base.dto.FuelWalletTransactionDto" />
-    <EXCLUDED_PACKAGE NAME="com.vyom.fuel.base.request.AddFuelCreditRequest" />
-    <EXCLUDED_PACKAGE NAME="com.vyom.fuel.base.request.RedeemFuelCreditRequest" />
-    <EXCLUDED_PACKAGE NAME="com.vyom.fuel.base.response.AddFuelCreditResponse" />
-    <EXCLUDED_PACKAGE NAME="com.vyom.fuel.base.response.GetFuelWalletBalanceResponse" />
-    <EXCLUDED_PACKAGE NAME="com.vyom.fuel.base.response.GetFuelWalletStatementResponse" />
-    <EXCLUDED_PACKAGE NAME="com.vyom.fuel.base.response.RedeemFuelCreditResponse" />
-    <EXCLUDED_PACKAGE NAME="io.vavr.collection" />
-    <EXCLUDED_PACKAGE NAME="io.vavr.collection.List" />
-  </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="SHOW_METHOD_SEPARATORS" value="true" />
-  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
     <option name="collapseLambdas" value="false" />
