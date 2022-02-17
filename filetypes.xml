@@ -1,19 +1,19 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
+      <mapping ext="xlsx" type="MyNativeFile" />
+      <mapping ext="xls" type="MyNativeFile" />
+      <removed_mapping ext="xlsx" type="Native" />
+      <removed_mapping ext="xls" type="Native" />
+      <mapping ext="ddl" type="OdpsQL" />
+      <mapping ext="odpsql" type="OdpsQL" />
+      <mapping ext="q" type="OdpsQL" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
-      <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="vm" type="PLAIN_TEXT" />
+      <mapping ext="exec" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
